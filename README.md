@@ -1,6 +1,6 @@
-# Welcome to [python-hacktoberfest23] - Hacktoberfest 2023 🎉
+# Welcome to [python-hacktoberfest25] - Hacktoberfest 2025 🎉
 
-Thank you for checking out this repository! We're excited to have you contribute to Hacktoberfest 2023. Before you get started, please take a moment to read the following rules and guidelines to ensure a smooth contribution process.
+Thank you for checking out this repository! We're excited to have you contribute to Hacktoberfest 2025. Before you get started, please take a moment to read the following rules and guidelines to ensure a smooth contribution process.
 
 ## How to Contribute
 
@@ -37,6 +37,16 @@ If you're new to GitHub and Hacktoberfest, you can check out these resources to 
 ## Show Your Support
 
 If you find this repository useful, please give it a ⭐! Contributions of all kinds are welcome, and every bit helps improve this project.
+
+---
+
+## A special thanks to the contributers for this repository!!
+
+<a href="https://github.com/chetannihith/python-hacktoberfest23/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=chetannihith/python-hacktoberfest23" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ---
 
