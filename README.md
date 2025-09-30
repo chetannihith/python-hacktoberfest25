@@ -40,7 +40,7 @@ If you find this repository useful, please give it a ⭐! Contributions of all k
 
 ---
 
-## A special thanks to the contributers for this repository!!
+## A special thanks to the contributors for this repository!!
 
 <a href="https://github.com/chetannihith/python-hacktoberfest23/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=chetannihith/python-hacktoberfest23" />
