@@ -33,7 +33,6 @@ We—maintainers, contributors, and community members of **python-hacktoberfest2
 ## 🤝 Our Standards
 
 ### ✅ Positive Behaviors 
---------------------------------------
 |✅ Acceptable behaviours are |
 ------------------------------
 | 💛 Show empathy & kindness  |
@@ -43,6 +42,8 @@ We—maintainers, contributors, and community members of **python-hacktoberfest2
 |🎯 Prioritize what benefits the community and project  |
 |🙌 Credit the work of others  |
 |🪄 Keep discussions focused and professional | 
+
+
 -----
 
 ### 🚫 Unacceptable Behaviors
