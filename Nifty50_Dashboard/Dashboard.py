@@ -354,7 +354,7 @@ with tab3:
                 )
                 sns.kdeplot(normal_data, ax=ax, color="red", linestyle="--", label="Normal Dist", linewidth=2)
                 
-                ax.set_title(f"Distribution of Log Returns")
+                ax.set_title("Distribution of Log Returns")
                 ax.set_xlabel("Log Returns")
                 ax.set_ylabel("Density")
                 ax.legend()
@@ -370,7 +370,7 @@ with tab3:
                 # Autocorrelation plot
                 fig, ax = plt.subplots(figsize=(8, 4))
                 plot_acf(filtered_data[ticker].dropna(), ax=ax, lags=20)
-                ax.set_title(f"Autocorrelation")
+                ax.set_title("Autocorrelation")
                 st.pyplot(fig)
                 plt.close()
             else:
