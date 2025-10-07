@@ -1,0 +1,8 @@
+langchain-chroma
+langchain-openai
+python-dotenv
+pydantic-settings
+langchain-core
+langchain
+PyMuPDF
+openai
