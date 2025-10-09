@@ -48,4 +48,9 @@ Your Score is 3
 
 ---
 
+## Author
+UzzyDizzy
+
+---
+
 Have fun testing your animal knowledge! 🐻🐆🐋
